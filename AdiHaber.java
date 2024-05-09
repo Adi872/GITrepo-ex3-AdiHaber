@@ -4,7 +4,7 @@ public class AdiHaber
     {
         for(int i = 1; i <= 5; i++)
         {
-            System.out.println("Adi Haber");
+            System.out.println("Adi Haber :)");
         }
     }
 }
