@@ -1,4 +1,4 @@
-public class Adi
+public class AdiHaber
 {
     public static void main(String[] args)
     {
